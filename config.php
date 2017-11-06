@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'DevOps For PHP ',
+        'name' => 'DevOps For PHP Using VSTS ',
         'nav_menu' => [
             '' => 'Microsoft',
             /*'about-us' => 'About Us',
