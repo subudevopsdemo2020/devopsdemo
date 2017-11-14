@@ -28,5 +28,3 @@
 </div>
 </body>
 </html>
-
-<!--"SQstorageName": "[concat(uniqueString(resourceGroup().id))]",-->
