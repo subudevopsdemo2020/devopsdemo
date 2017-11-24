@@ -8,7 +8,7 @@
         article { text-align: left; padding: 40px; line-height: 150%; color: azure; font-family: "MS-Font-Segoe", "Helvetica Neue", Helvetica, Arial, sans-serif;}
     </style>
 </head>
-<body style="background-color:antiquewhite;">
+<body style="background-color:#f3f0eb;">
 <div class="wrap" >
 
     <header style="color:azure; font-family: "MS-Font-Segoe", "Helvetica Neue", Helvetica, Arial, sans-serif;">
