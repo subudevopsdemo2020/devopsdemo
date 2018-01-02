@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'PHP Labs ',
+        'name' => 'PHP',
         'nav_menu' => [
             '' => 'Microsoft',
             /*'about-us' => 'About Us',
