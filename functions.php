@@ -38,7 +38,7 @@ function navMenu($sep = ' | ')
  */
 function pageTitle()
 {
-    $page = isset($_GET['page']) ? htmlspecialchars($_GET['page']) : 'PHP DevOps Using VSTS and Azure';
+    $page = isset($_GET['page']) ? htmlspecialchars($_GET['page']) : 'PHP DevOps with Azure DevOps and Azure Web App';
 
     echo ucwords(str_replace('-', ' ', $page));
 }
